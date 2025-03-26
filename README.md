@@ -74,7 +74,7 @@ RxPredict/
 3. Mobile Application Support: Creating an Android/iOS app for easier access.
 
 ### Developed By
-Mansi Sawant - [LinkedIn](https://www.linkedin.com/in/mansi/)  
+Mansi Sawant - [LinkedIn](https://www.linkedin.com/in/s-mansi/)  
 
 ---
 
