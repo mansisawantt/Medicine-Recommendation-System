@@ -1,0 +1,1001 @@
+Patient_ID,Medicine_Name,Category,Quantity,Purchase_Date
+130,Amoxicillin 24,Antibiotic,1,2023-08-13
+114,Atorvastatin 161,Cholesterol,3,2023-12-30
+155,Levothyroxine 418,Thyroid,1,2024-02-24
+178,Aspirin 1,Pain Reliever,3,2023-03-29
+180,Aspirin 499,Pain Reliever,3,2023-03-20
+164,Amlodipine 422,Blood Pressure,1,2023-12-08
+160,Cetirizine 145,Antihistamine,3,2023-05-24
+71,Ranitidine 385,Acid Reflux,2,2023-04-20
+59,Aspirin 86,Pain Reliever,3,2023-10-09
+26,Amoxicillin 311,Antibiotic,3,2023-07-08
+186,Levothyroxine 111,Thyroid,3,2024-01-02
+119,Atorvastatin 292,Cholesterol,3,2023-06-21
+30,Cetirizine 370,Antihistamine,1,2023-10-23
+164,Paracetamol 94,Pain Reliever,2,2023-08-22
+143,Telmisartan 63,Blood Pressure,2,2023-10-04
+186,Prednisolone 440,Steroid,1,2023-10-05
+10,Paracetamol 253,Pain Reliever,1,2023-08-07
+79,Levothyroxine 196,Thyroid,2,2023-07-18
+130,Aspirin 372,Pain Reliever,2,2023-10-11
+191,Amoxicillin 43,Antibiotic,1,2023-05-06
+161,Gliclazide 203,Diabetes,1,2023-06-08
+100,Ranitidine 454,Acid Reflux,1,2023-12-21
+162,Paracetamol 208,Pain Reliever,2,2024-01-26
+139,Aspirin 391,Pain Reliever,3,2023-08-08
+107,Telmisartan 289,Blood Pressure,3,2023-08-16
+121,Amoxicillin 30,Antibiotic,2,2023-07-19
+126,Losartan 110,Blood Pressure,3,2023-08-30
+113,Losartan 122,Blood Pressure,2,2023-03-19
+92,Levothyroxine 138,Thyroid,2,2024-02-12
+32,Amoxicillin 43,Antibiotic,2,2023-03-31
+5,Metformin 5,Diabetes,2,2023-03-18
+141,Paracetamol 484,Pain Reliever,3,2023-10-30
+73,Levothyroxine 493,Thyroid,2,2023-11-15
+103,Ranitidine 236,Acid Reflux,1,2023-09-17
+192,Metformin 4,Diabetes,3,2023-12-23
+180,Cetirizine 388,Antihistamine,2,2023-04-11
+131,Gliclazide 102,Diabetes,3,2023-05-09
+38,Atorvastatin 356,Cholesterol,3,2023-05-19
+42,Paracetamol 208,Pain Reliever,1,2023-08-19
+145,Prednisolone 223,Steroid,1,2023-08-13
+2,Atorvastatin 169,Cholesterol,3,2023-08-25
+158,Levothyroxine 29,Thyroid,3,2023-04-10
+130,Atorvastatin 262,Cholesterol,2,2024-01-04
+68,Ranitidine 51,Acid Reflux,2,2023-09-14
+171,Cetirizine 185,Antihistamine,3,2023-07-28
+19,Prednisolone 7,Steroid,2,2024-02-01
+17,Ibuprofen 82,Pain Reliever,1,2023-10-01
+92,Aspirin 357,Pain Reliever,3,2024-01-16
+2,Paracetamol 198,Pain Reliever,2,2023-11-01
+144,Prednisolone 141,Steroid,1,2023-09-17
+74,Paracetamol 273,Pain Reliever,2,2024-01-22
+59,Ibuprofen 380,Pain Reliever,1,2023-09-10
+60,Ranitidine 454,Acid Reflux,3,2024-01-01
+184,Gliclazide 251,Diabetes,1,2023-10-30
+148,Atorvastatin 495,Cholesterol,2,2023-10-08
+129,Cetirizine 354,Antihistamine,3,2023-10-19
+85,Cetirizine 204,Antihistamine,1,2023-07-12
+198,Gliclazide 336,Diabetes,2,2023-04-22
+146,Atorvastatin 126,Cholesterol,2,2023-07-26
+97,Losartan 249,Blood Pressure,3,2023-10-14
+50,Ranitidine 215,Acid Reflux,1,2024-02-22
+139,Ranitidine 453,Acid Reflux,3,2023-12-25
+196,Telmisartan 181,Blood Pressure,1,2023-05-11
+26,Omeprazole 190,Acid Reflux,2,2023-12-08
+143,Ranitidine 325,Acid Reflux,2,2023-05-06
+77,Paracetamol 208,Pain Reliever,1,2023-11-15
+161,Amlodipine 91,Blood Pressure,2,2024-01-31
+170,Levothyroxine 196,Thyroid,2,2023-05-23
+26,Ranitidine 171,Acid Reflux,3,2023-12-23
+184,Amoxicillin 258,Antibiotic,3,2023-12-14
+173,Aspirin 180,Pain Reliever,3,2024-01-15
+83,Telmisartan 2,Blood Pressure,2,2023-07-21
+132,Amlodipine 490,Blood Pressure,2,2023-04-10
+58,Omeprazole 13,Acid Reflux,3,2023-06-26
+35,Telmisartan 35,Blood Pressure,2,2023-07-20
+160,Losartan 293,Blood Pressure,3,2023-03-10
+152,Aspirin 1,Pain Reliever,3,2023-12-19
+114,Amlodipine 355,Blood Pressure,3,2023-10-08
+171,Ibuprofen 313,Pain Reliever,1,2023-11-25
+88,Ranitidine 153,Acid Reflux,1,2023-04-12
+33,Levothyroxine 116,Thyroid,2,2023-05-23
+2,Prednisolone 7,Steroid,3,2023-05-19
+183,Aspirin 319,Pain Reliever,2,2023-12-25
+171,Levothyroxine 335,Thyroid,2,2023-05-30
+144,Paracetamol 270,Pain Reliever,3,2024-01-20
+35,Atorvastatin 481,Cholesterol,3,2023-09-02
+148,Atorvastatin 500,Cholesterol,2,2023-08-25
+143,Amoxicillin 38,Antibiotic,1,2023-08-26
+161,Atorvastatin 124,Cholesterol,1,2023-03-14
+143,Levothyroxine 367,Thyroid,1,2023-07-25
+166,Ibuprofen 476,Pain Reliever,1,2024-02-02
+180,Cetirizine 354,Antihistamine,3,2024-01-19
+142,Ranitidine 99,Acid Reflux,1,2023-10-24
+87,Amoxicillin 132,Antibiotic,2,2023-09-09
+134,Telmisartan 20,Blood Pressure,2,2024-01-13
+22,Levothyroxine 316,Thyroid,3,2023-07-16
+160,Amoxicillin 128,Antibiotic,2,2024-02-28
+184,Ranitidine 51,Acid Reflux,3,2023-09-19
+149,Losartan 160,Blood Pressure,3,2023-05-11
+107,Amoxicillin 87,Antibiotic,1,2023-10-21
+46,Amlodipine 490,Blood Pressure,3,2023-09-13
+120,Paracetamol 144,Pain Reliever,1,2023-06-09
+153,Amlodipine 279,Blood Pressure,3,2023-08-17
+54,Paracetamol 54,Pain Reliever,3,2023-09-30
+9,Ranitidine 176,Acid Reflux,2,2023-08-27
+97,Amlodipine 415,Blood Pressure,1,2023-08-08
+183,Prednisolone 421,Steroid,1,2024-02-15
+116,Losartan 332,Blood Pressure,3,2023-04-07
+118,Telmisartan 68,Blood Pressure,2,2024-01-29
+12,Ibuprofen 392,Pain Reliever,1,2024-02-19
+140,Losartan 331,Blood Pressure,1,2023-06-17
+128,Ranitidine 349,Acid Reflux,1,2023-08-22
+179,Aspirin 319,Pain Reliever,1,2023-03-31
+58,Amlodipine 80,Blood Pressure,1,2023-11-09
+126,Metformin 400,Diabetes,3,2023-07-22
+11,Paracetamol 191,Pain Reliever,1,2023-06-30
+188,Gliclazide 211,Diabetes,2,2023-06-27
+98,Amlodipine 485,Blood Pressure,2,2023-06-04
+89,Omeprazole 13,Acid Reflux,2,2023-05-25
+98,Aspirin 121,Pain Reliever,3,2023-04-11
+74,Losartan 160,Blood Pressure,2,2023-07-29
+64,Atorvastatin 475,Cholesterol,3,2023-10-20
+11,Losartan 112,Blood Pressure,3,2023-12-01
+108,Amoxicillin 469,Antibiotic,3,2023-08-13
+108,Losartan 263,Blood Pressure,2,2024-02-08
+30,Paracetamol 270,Pain Reliever,1,2023-07-24
+160,Aspirin 22,Pain Reliever,3,2023-03-12
+52,Levothyroxine 362,Thyroid,2,2023-04-21
+140,Prednisolone 419,Steroid,2,2023-03-26
+45,Metformin 434,Diabetes,1,2023-05-06
+135,Gliclazide 92,Diabetes,3,2023-08-03
+55,Cetirizine 378,Antihistamine,2,2023-11-25
+48,Amoxicillin 311,Antibiotic,1,2023-06-10
+110,Levothyroxine 312,Thyroid,2,2023-07-28
+83,Ranitidine 423,Acid Reflux,3,2023-11-26
+28,Gliclazide 211,Diabetes,1,2023-10-22
+184,Ibuprofen 392,Pain Reliever,2,2023-07-09
+199,Paracetamol 191,Pain Reliever,1,2023-10-07
+10,Amlodipine 15,Blood Pressure,1,2023-09-04
+76,Gliclazide 251,Diabetes,3,2023-04-29
+83,Amoxicillin 178,Antibiotic,1,2023-07-03
+44,Losartan 332,Blood Pressure,3,2023-10-05
+49,Paracetamol 191,Pain Reliever,1,2023-06-03
+132,Metformin 434,Diabetes,2,2023-07-20
+152,Ranitidine 413,Acid Reflux,1,2024-02-03
+148,Amoxicillin 189,Antibiotic,1,2023-07-12
+187,Metformin 69,Diabetes,2,2024-02-29
+167,Ibuprofen 380,Pain Reliever,2,2024-01-03
+132,Amoxicillin 254,Antibiotic,3,2024-01-12
+174,Amlodipine 19,Blood Pressure,1,2023-04-12
+129,Paracetamol 54,Pain Reliever,1,2023-11-02
+42,Paracetamol 191,Pain Reliever,2,2023-04-15
+26,Telmisartan 323,Blood Pressure,1,2023-06-13
+154,Gliclazide 184,Diabetes,2,2023-09-06
+36,Omeprazole 315,Acid Reflux,3,2023-07-10
+43,Paracetamol 303,Pain Reliever,1,2023-11-02
+25,Omeprazole 443,Acid Reflux,3,2024-01-09
+77,Gliclazide 12,Diabetes,1,2024-01-22
+115,Paracetamol 474,Pain Reliever,2,2023-07-26
+136,Atorvastatin 46,Cholesterol,2,2023-04-21
+40,Aspirin 305,Pain Reliever,2,2023-12-27
+61,Levothyroxine 403,Thyroid,1,2023-07-25
+6,Gliclazide 298,Diabetes,1,2023-06-27
+116,Ibuprofen 77,Pain Reliever,2,2023-05-27
+88,Telmisartan 63,Blood Pressure,3,2023-11-16
+122,Ibuprofen 313,Pain Reliever,1,2023-03-15
+100,Atorvastatin 495,Cholesterol,1,2023-12-16
+73,Omeprazole 461,Acid Reflux,1,2024-01-26
+170,Cetirizine 147,Antihistamine,3,2023-03-06
+188,Losartan 330,Blood Pressure,3,2023-03-26
+77,Paracetamol 144,Pain Reliever,1,2023-11-13
+120,Ranitidine 337,Acid Reflux,3,2023-03-22
+6,Amoxicillin 462,Antibiotic,3,2023-11-07
+105,Ranitidine 153,Acid Reflux,1,2023-09-28
+45,Cetirizine 455,Antihistamine,2,2023-05-26
+155,Metformin 445,Diabetes,3,2023-05-04
+60,Levothyroxine 316,Thyroid,2,2023-03-11
+176,Atorvastatin 10,Cholesterol,3,2024-02-23
+181,Telmisartan 323,Blood Pressure,1,2023-07-19
+97,Gliclazide 444,Diabetes,3,2023-09-11
+9,Atorvastatin 495,Cholesterol,3,2023-12-28
+191,Levothyroxine 479,Thyroid,1,2023-10-16
+130,Losartan 331,Blood Pressure,1,2023-05-23
+179,Levothyroxine 362,Thyroid,2,2023-12-18
+190,Gliclazide 483,Diabetes,2,2024-02-18
+1,Omeprazole 443,Acid Reflux,1,2023-05-03
+162,Amoxicillin 24,Antibiotic,1,2023-07-25
+180,Gliclazide 102,Diabetes,2,2023-10-19
+195,Omeprazole 456,Acid Reflux,2,2023-08-29
+168,Losartan 202,Blood Pressure,1,2023-03-09
+183,Levothyroxine 29,Thyroid,3,2023-11-10
+164,Ranitidine 236,Acid Reflux,2,2023-04-23
+144,Amlodipine 490,Blood Pressure,3,2024-01-20
+194,Levothyroxine 218,Thyroid,2,2023-12-11
+31,Telmisartan 408,Blood Pressure,3,2023-11-18
+164,Levothyroxine 424,Thyroid,2,2023-07-22
+94,Aspirin 192,Pain Reliever,2,2023-04-18
+167,Omeprazole 339,Acid Reflux,1,2023-03-05
+69,Prednisolone 397,Steroid,1,2023-03-12
+158,Aspirin 146,Pain Reliever,1,2023-07-15
+137,Aspirin 372,Pain Reliever,3,2023-12-29
+14,Gliclazide 318,Diabetes,2,2023-06-09
+62,Atorvastatin 137,Cholesterol,2,2023-12-17
+8,Aspirin 498,Pain Reliever,1,2023-04-14
+97,Ranitidine 453,Acid Reflux,3,2023-11-08
+34,Gliclazide 3,Diabetes,3,2023-07-26
+160,Atorvastatin 475,Cholesterol,2,2023-10-28
+114,Metformin 225,Diabetes,2,2023-05-07
+83,Prednisolone 468,Steroid,2,2023-09-27
+83,Prednisolone 75,Steroid,1,2023-07-06
+96,Atorvastatin 161,Cholesterol,3,2023-05-21
+24,Paracetamol 393,Pain Reliever,3,2024-01-07
+126,Ranitidine 215,Acid Reflux,2,2024-02-22
+14,Levothyroxine 365,Thyroid,1,2023-04-09
+95,Amlodipine 364,Blood Pressure,3,2023-05-29
+176,Omeprazole 143,Acid Reflux,1,2023-03-06
+53,Aspirin 90,Pain Reliever,3,2024-01-23
+79,Gliclazide 265,Diabetes,2,2023-05-11
+133,Losartan 432,Blood Pressure,2,2023-05-30
+49,Levothyroxine 148,Thyroid,3,2023-05-21
+98,Amoxicillin 427,Antibiotic,1,2023-07-24
+92,Atorvastatin 137,Cholesterol,3,2023-09-25
+96,Prednisolone 152,Steroid,1,2023-08-15
+111,Losartan 432,Blood Pressure,1,2023-09-10
+12,Gliclazide 58,Diabetes,2,2023-03-15
+158,Cetirizine 8,Antihistamine,3,2023-10-22
+42,Levothyroxine 482,Thyroid,2,2023-10-19
+130,Amlodipine 260,Blood Pressure,2,2023-04-23
+125,Levothyroxine 402,Thyroid,2,2023-06-13
+133,Ranitidine 117,Acid Reflux,3,2023-03-06
+57,Ibuprofen 314,Pain Reliever,3,2023-03-08
+47,Telmisartan 68,Blood Pressure,1,2023-03-26
+82,Gliclazide 483,Diabetes,1,2023-09-08
+196,Gliclazide 444,Diabetes,3,2023-06-08
+73,Omeprazole 36,Acid Reflux,2,2023-11-27
+175,Metformin 382,Diabetes,2,2023-11-15
+23,Gliclazide 318,Diabetes,3,2023-10-10
+181,Atorvastatin 156,Cholesterol,1,2023-12-06
+129,Amlodipine 139,Blood Pressure,1,2023-03-09
+36,Ranitidine 257,Acid Reflux,1,2023-12-07
+177,Paracetamol 448,Pain Reliever,1,2023-08-18
+75,Losartan 371,Blood Pressure,3,2023-05-17
+93,Levothyroxine 365,Thyroid,2,2023-05-16
+175,Atorvastatin 44,Cholesterol,2,2023-10-13
+60,Prednisolone 414,Steroid,2,2023-04-14
+160,Ranitidine 117,Acid Reflux,2,2024-01-22
+66,Aspirin 498,Pain Reliever,3,2023-08-30
+150,Amlodipine 6,Blood Pressure,2,2023-10-18
+74,Atorvastatin 449,Cholesterol,2,2024-01-16
+114,Gliclazide 16,Diabetes,2,2023-08-09
+85,Telmisartan 201,Blood Pressure,1,2023-07-22
+182,Amoxicillin 206,Antibiotic,1,2023-08-18
+189,Gliclazide 359,Diabetes,3,2023-06-10
+107,Omeprazole 224,Acid Reflux,3,2023-11-04
+131,Aspirin 140,Pain Reliever,2,2023-03-19
+90,Omeprazole 113,Acid Reflux,2,2023-09-11
+147,Losartan 360,Blood Pressure,3,2023-05-14
+81,Paracetamol 31,Pain Reliever,2,2023-09-11
+65,Levothyroxine 482,Thyroid,1,2023-04-21
+42,Ibuprofen 154,Pain Reliever,1,2023-10-12
+116,Gliclazide 295,Diabetes,2,2023-11-01
+27,Levothyroxine 111,Thyroid,2,2023-06-08
+171,Amoxicillin 194,Antibiotic,2,2023-08-16
+199,Metformin 473,Diabetes,1,2023-03-18
+86,Amoxicillin 83,Antibiotic,3,2023-04-04
+48,Paracetamol 393,Pain Reliever,2,2023-05-19
+102,Omeprazole 272,Acid Reflux,3,2023-08-08
+50,Atorvastatin 449,Cholesterol,3,2023-11-19
+172,Amlodipine 306,Blood Pressure,3,2023-05-13
+161,Prednisolone 183,Steroid,2,2023-07-19
+183,Omeprazole 13,Acid Reflux,3,2023-10-17
+42,Prednisolone 47,Steroid,3,2023-08-12
+55,Ibuprofen 299,Pain Reliever,1,2023-04-22
+7,Amoxicillin 206,Antibiotic,3,2023-12-14
+164,Aspirin 163,Pain Reliever,2,2024-01-01
+18,Aspirin 343,Pain Reliever,1,2023-09-17
+99,Atorvastatin 232,Cholesterol,1,2023-03-02
+151,Aspirin 459,Pain Reliever,2,2023-10-13
+47,Ranitidine 454,Acid Reflux,3,2024-01-21
+38,Atorvastatin 161,Cholesterol,2,2023-08-30
+99,Ranitidine 51,Acid Reflux,2,2023-04-23
+120,Amoxicillin 62,Antibiotic,1,2023-04-18
+24,Ranitidine 215,Acid Reflux,2,2023-12-01
+12,Cetirizine 388,Antihistamine,2,2023-04-08
+138,Gliclazide 92,Diabetes,2,2023-04-03
+9,Gliclazide 226,Diabetes,1,2023-11-28
+192,Atorvastatin 495,Cholesterol,3,2023-03-22
+188,Amoxicillin 206,Antibiotic,1,2023-11-01
+173,Cetirizine 185,Antihistamine,1,2023-07-25
+30,Paracetamol 484,Pain Reliever,2,2023-06-02
+61,Gliclazide 318,Diabetes,3,2023-06-21
+110,Omeprazole 164,Acid Reflux,2,2023-05-20
+83,Losartan 360,Blood Pressure,1,2024-01-20
+139,Ranitidine 236,Acid Reflux,2,2023-07-19
+128,Levothyroxine 170,Thyroid,2,2023-05-14
+173,Amlodipine 115,Blood Pressure,1,2024-02-28
+50,Aspirin 350,Pain Reliever,2,2024-01-02
+167,Losartan 432,Blood Pressure,2,2023-04-28
+49,Ibuprofen 158,Pain Reliever,2,2023-07-08
+154,Atorvastatin 34,Cholesterol,2,2023-09-15
+158,Atorvastatin 156,Cholesterol,1,2023-10-11
+94,Losartan 293,Blood Pressure,1,2023-08-19
+165,Levothyroxine 157,Thyroid,1,2023-06-08
+165,Aspirin 372,Pain Reliever,3,2023-03-19
+6,Aspirin 163,Pain Reliever,1,2024-02-20
+180,Omeprazole 272,Acid Reflux,3,2023-11-20
+117,Ibuprofen 480,Pain Reliever,2,2023-04-03
+79,Amlodipine 139,Blood Pressure,3,2024-02-18
+11,Ranitidine 117,Acid Reflux,2,2023-09-27
+16,Amlodipine 364,Blood Pressure,2,2023-08-14
+164,Amoxicillin 189,Antibiotic,1,2023-11-07
+103,Losartan 246,Blood Pressure,3,2023-12-08
+85,Aspirin 284,Pain Reliever,3,2024-02-18
+81,Ranitidine 453,Acid Reflux,3,2023-11-11
+99,Amoxicillin 178,Antibiotic,1,2023-06-26
+134,Metformin 5,Diabetes,3,2024-01-18
+86,Amoxicillin 311,Antibiotic,3,2023-07-18
+88,Losartan 246,Blood Pressure,2,2023-11-17
+161,Levothyroxine 56,Thyroid,3,2024-01-17
+82,Gliclazide 16,Diabetes,2,2024-01-04
+87,Paracetamol 31,Pain Reliever,1,2023-11-01
+94,Ranitidine 165,Acid Reflux,1,2023-12-11
+4,Amoxicillin 87,Antibiotic,1,2024-02-23
+43,Losartan 249,Blood Pressure,2,2023-11-29
+146,Losartan 110,Blood Pressure,2,2023-03-29
+118,Ibuprofen 82,Pain Reliever,1,2023-10-23
+30,Amoxicillin 381,Antibiotic,3,2023-09-16
+100,Omeprazole 36,Acid Reflux,1,2023-03-11
+147,Prednisolone 414,Steroid,2,2023-09-28
+181,Amlodipine 490,Blood Pressure,2,2023-09-25
+84,Metformin 382,Diabetes,1,2023-12-12
+174,Cetirizine 127,Antihistamine,2,2023-05-25
+100,Aspirin 182,Pain Reliever,2,2023-09-19
+160,Prednisolone 27,Steroid,1,2023-12-22
+132,Losartan 457,Blood Pressure,2,2023-08-24
+188,Prednisolone 468,Steroid,3,2024-01-11
+23,Ranitidine 439,Acid Reflux,1,2024-01-01
+157,Gliclazide 261,Diabetes,2,2024-02-29
+148,Amlodipine 93,Blood Pressure,3,2023-12-14
+91,Amoxicillin 128,Antibiotic,3,2023-08-27
+98,Amoxicillin 373,Antibiotic,3,2023-12-10
+22,Ibuprofen 447,Pain Reliever,1,2024-01-14
+147,Amoxicillin 462,Antibiotic,1,2024-01-28
+161,Ranitidine 51,Acid Reflux,1,2023-11-16
+187,Amoxicillin 206,Antibiotic,2,2023-10-26
+170,Paracetamol 64,Pain Reliever,3,2023-08-14
+145,Metformin 486,Diabetes,3,2023-06-04
+134,Omeprazole 164,Acid Reflux,1,2023-08-01
+2,Metformin 486,Diabetes,3,2024-02-01
+132,Amlodipine 478,Blood Pressure,2,2024-02-18
+142,Paracetamol 398,Pain Reliever,2,2023-03-23
+109,Cetirizine 167,Antihistamine,3,2023-07-02
+1,Aspirin 195,Pain Reliever,2,2023-06-23
+40,Aspirin 140,Pain Reliever,2,2023-11-30
+185,Cetirizine 109,Antihistamine,1,2023-07-17
+3,Aspirin 328,Pain Reliever,1,2024-02-19
+25,Paracetamol 398,Pain Reliever,2,2023-10-18
+142,Prednisolone 376,Steroid,3,2023-07-02
+125,Ibuprofen 55,Pain Reliever,3,2023-08-31
+199,Losartan 371,Blood Pressure,3,2023-09-08
+65,Paracetamol 448,Pain Reliever,1,2023-11-14
+120,Omeprazole 113,Acid Reflux,2,2023-05-05
+114,Metformin 219,Diabetes,2,2023-05-09
+61,Paracetamol 474,Pain Reliever,2,2023-09-17
+157,Aspirin 90,Pain Reliever,3,2023-05-19
+66,Amoxicillin 268,Antibiotic,1,2024-02-09
+159,Telmisartan 436,Blood Pressure,2,2023-07-27
+21,Amoxicillin 229,Antibiotic,3,2023-03-04
+160,Telmisartan 408,Blood Pressure,2,2023-08-14
+43,Telmisartan 289,Blood Pressure,1,2023-08-17
+16,Aspirin 146,Pain Reliever,3,2023-05-04
+42,Levothyroxine 111,Thyroid,2,2024-01-19
+165,Telmisartan 458,Blood Pressure,3,2023-05-21
+153,Amoxicillin 194,Antibiotic,3,2023-12-13
+21,Prednisolone 414,Steroid,1,2023-07-01
+179,Aspirin 95,Pain Reliever,3,2023-12-13
+129,Telmisartan 267,Blood Pressure,2,2023-05-11
+77,Ibuprofen 447,Pain Reliever,1,2023-11-26
+49,Omeprazole 297,Acid Reflux,3,2023-05-28
+97,Metformin 242,Diabetes,2,2023-11-21
+5,Prednisolone 141,Steroid,1,2023-08-28
+121,Levothyroxine 362,Thyroid,3,2023-12-01
+150,Atorvastatin 489,Cholesterol,1,2023-10-25
+90,Gliclazide 261,Diabetes,1,2023-12-21
+123,Ranitidine 453,Acid Reflux,3,2023-12-23
+102,Paracetamol 273,Pain Reliever,3,2023-05-05
+131,Losartan 285,Blood Pressure,1,2024-01-03
+13,Levothyroxine 157,Thyroid,2,2023-12-02
+85,Metformin 219,Diabetes,1,2023-09-18
+106,Amlodipine 221,Blood Pressure,2,2023-05-03
+97,Prednisolone 414,Steroid,2,2023-08-10
+184,Levothyroxine 334,Thyroid,2,2023-04-01
+9,Atorvastatin 137,Cholesterol,2,2023-07-10
+36,Paracetamol 347,Pain Reliever,2,2023-05-23
+77,Amoxicillin 266,Antibiotic,2,2023-04-04
+22,Aspirin 180,Pain Reliever,3,2024-01-19
+68,Metformin 255,Diabetes,3,2023-11-15
+46,Gliclazide 16,Diabetes,3,2023-12-20
+109,Ranitidine 250,Acid Reflux,3,2024-03-01
+147,Aspirin 200,Pain Reliever,3,2023-03-25
+185,Gliclazide 359,Diabetes,3,2023-11-24
+174,Omeprazole 224,Acid Reflux,1,2023-09-05
+104,Paracetamol 208,Pain Reliever,3,2024-02-27
+124,Ibuprofen 299,Pain Reliever,1,2023-07-22
+198,Metformin 78,Diabetes,2,2023-07-15
+161,Prednisolone 7,Steroid,1,2023-03-15
+8,Losartan 106,Blood Pressure,1,2023-10-22
+81,Gliclazide 411,Diabetes,2,2023-05-22
+171,Levothyroxine 134,Thyroid,2,2023-06-05
+58,Omeprazole 387,Acid Reflux,2,2023-07-26
+72,Amoxicillin 345,Antibiotic,2,2023-09-13
+48,Gliclazide 136,Diabetes,1,2023-08-30
+124,Levothyroxine 418,Thyroid,2,2023-03-29
+132,Amlodipine 375,Blood Pressure,1,2023-09-07
+125,Omeprazole 456,Acid Reflux,3,2023-11-05
+4,Paracetamol 484,Pain Reliever,1,2024-01-22
+96,Losartan 246,Blood Pressure,1,2023-06-05
+61,Ranitidine 453,Acid Reflux,1,2023-04-28
+24,Prednisolone 244,Steroid,3,2024-01-24
+20,Prednisolone 47,Steroid,2,2023-10-10
+138,Losartan 263,Blood Pressure,1,2023-10-23
+12,Atorvastatin 230,Cholesterol,2,2023-05-27
+148,Gliclazide 261,Diabetes,3,2024-02-29
+162,Gliclazide 203,Diabetes,2,2023-03-25
+96,Metformin 363,Diabetes,3,2023-07-03
+7,Prednisolone 244,Steroid,2,2023-10-23
+31,Paracetamol 270,Pain Reliever,1,2024-02-07
+191,Aspirin 499,Pain Reliever,3,2024-02-09
+105,Paracetamol 348,Pain Reliever,2,2023-04-21
+140,Paracetamol 41,Pain Reliever,1,2023-03-25
+170,Telmisartan 108,Blood Pressure,1,2024-01-16
+64,Paracetamol 41,Pain Reliever,2,2023-08-29
+53,Telmisartan 201,Blood Pressure,3,2023-10-30
+151,Paracetamol 431,Pain Reliever,1,2023-06-01
+173,Ranitidine 215,Acid Reflux,3,2024-02-22
+71,Omeprazole 282,Acid Reflux,3,2023-06-11
+35,Omeprazole 71,Acid Reflux,1,2023-07-15
+127,Levothyroxine 479,Thyroid,2,2023-04-18
+17,Atorvastatin 394,Cholesterol,1,2023-10-16
+165,Ranitidine 215,Acid Reflux,2,2023-03-07
+190,Metformin 472,Diabetes,3,2023-06-07
+118,Losartan 202,Blood Pressure,3,2023-03-07
+58,Aspirin 42,Pain Reliever,3,2023-06-02
+95,Omeprazole 164,Acid Reflux,2,2023-03-08
+37,Cetirizine 280,Antihistamine,1,2024-01-24
+198,Cetirizine 204,Antihistamine,3,2023-04-17
+73,Losartan 274,Blood Pressure,1,2024-02-22
+44,Paracetamol 393,Pain Reliever,2,2023-05-23
+35,Ibuprofen 65,Pain Reliever,3,2023-06-07
+56,Ranitidine 257,Acid Reflux,3,2023-05-09
+12,Aspirin 296,Pain Reliever,3,2023-03-20
+33,Telmisartan 222,Blood Pressure,3,2023-08-03
+86,Losartan 274,Blood Pressure,3,2023-08-23
+103,Gliclazide 28,Diabetes,2,2023-11-20
+122,Losartan 277,Blood Pressure,2,2024-02-12
+177,Metformin 400,Diabetes,1,2023-04-14
+110,Amlodipine 375,Blood Pressure,3,2024-02-26
+160,Amlodipine 485,Blood Pressure,1,2023-04-25
+42,Ranitidine 171,Acid Reflux,3,2023-12-06
+1,Telmisartan 267,Blood Pressure,1,2023-04-07
+117,Metformin 175,Diabetes,3,2023-05-12
+81,Metformin 33,Diabetes,3,2023-05-20
+26,Paracetamol 31,Pain Reliever,1,2023-12-28
+47,Omeprazole 224,Acid Reflux,1,2024-01-03
+134,Atorvastatin 161,Cholesterol,3,2023-12-04
+145,Cetirizine 185,Antihistamine,1,2024-01-25
+142,Amoxicillin 361,Antibiotic,3,2023-05-03
+14,Cetirizine 488,Antihistamine,1,2023-07-12
+69,Levothyroxine 162,Thyroid,3,2023-11-05
+140,Aspirin 214,Pain Reliever,2,2023-07-01
+22,Prednisolone 40,Steroid,1,2023-09-12
+74,Telmisartan 286,Blood Pressure,1,2023-03-23
+60,Telmisartan 323,Blood Pressure,3,2023-10-20
+143,Aspirin 350,Pain Reliever,1,2023-07-07
+25,Atorvastatin 275,Cholesterol,1,2023-11-11
+183,Telmisartan 181,Blood Pressure,3,2023-03-29
+32,Prednisolone 414,Steroid,2,2024-02-13
+178,Atorvastatin 292,Cholesterol,2,2023-07-10
+9,Paracetamol 484,Pain Reliever,3,2023-10-15
+97,Ibuprofen 154,Pain Reliever,1,2023-08-06
+91,Prednisolone 168,Steroid,3,2023-12-24
+199,Paracetamol 273,Pain Reliever,2,2024-02-19
+68,Paracetamol 41,Pain Reliever,3,2023-04-14
+89,Gliclazide 383,Diabetes,3,2023-06-19
+116,Metformin 81,Diabetes,1,2023-07-23
+4,Aspirin 379,Pain Reliever,3,2024-01-24
+95,Metformin 473,Diabetes,2,2023-12-03
+91,Cetirizine 488,Antihistamine,2,2023-08-12
+177,Ranitidine 341,Acid Reflux,2,2023-12-25
+45,Atorvastatin 230,Cholesterol,1,2023-08-11
+169,Omeprazole 159,Acid Reflux,1,2023-11-09
+162,Prednisolone 419,Steroid,2,2023-12-26
+154,Amoxicillin 381,Antibiotic,1,2023-07-12
+165,Losartan 249,Blood Pressure,2,2023-07-28
+108,Telmisartan 452,Blood Pressure,1,2023-08-06
+26,Ranitidine 439,Acid Reflux,3,2024-02-22
+1,Losartan 88,Blood Pressure,3,2023-04-18
+65,Amoxicillin 381,Antibiotic,2,2023-10-28
+143,Amoxicillin 427,Antibiotic,3,2023-07-08
+157,Cetirizine 145,Antihistamine,1,2023-07-03
+28,Prednisolone 243,Steroid,1,2023-09-05
+1,Ranitidine 117,Acid Reflux,1,2024-01-12
+127,Metformin 219,Diabetes,1,2023-04-10
+193,Atorvastatin 161,Cholesterol,1,2023-11-05
+168,Amoxicillin 235,Antibiotic,2,2023-10-05
+7,Amoxicillin 311,Antibiotic,3,2023-10-28
+74,Ibuprofen 100,Pain Reliever,2,2023-08-06
+29,Gliclazide 234,Diabetes,3,2023-12-25
+187,Aspirin 284,Pain Reliever,3,2024-02-09
+177,Paracetamol 241,Pain Reliever,1,2023-06-08
+139,Omeprazole 224,Acid Reflux,1,2023-08-09
+175,Telmisartan 289,Blood Pressure,3,2023-07-22
+170,Ibuprofen 326,Pain Reliever,3,2023-08-27
+92,Atorvastatin 101,Cholesterol,3,2023-05-08
+121,Omeprazole 461,Acid Reflux,1,2024-02-21
+199,Ranitidine 426,Acid Reflux,2,2023-06-17
+91,Amoxicillin 412,Antibiotic,3,2023-04-15
+114,Telmisartan 408,Blood Pressure,3,2023-03-10
+86,Amoxicillin 178,Antibiotic,1,2023-12-21
+162,Telmisartan 68,Blood Pressure,3,2023-03-24
+193,Cetirizine 388,Antihistamine,3,2023-03-10
+141,Levothyroxine 338,Thyroid,1,2023-04-17
+80,Ranitidine 385,Acid Reflux,1,2024-01-14
+53,Aspirin 140,Pain Reliever,3,2023-10-01
+199,Paracetamol 253,Pain Reliever,2,2023-09-16
+174,Losartan 457,Blood Pressure,1,2023-09-13
+36,Amoxicillin 107,Antibiotic,1,2023-04-20
+143,Metformin 78,Diabetes,1,2024-01-20
+111,Gliclazide 166,Diabetes,1,2023-05-17
+26,Levothyroxine 209,Thyroid,1,2023-03-02
+29,Prednisolone 287,Steroid,1,2023-06-06
+5,Atorvastatin 475,Cholesterol,3,2024-01-29
+84,Omeprazole 155,Acid Reflux,1,2023-08-11
+84,Paracetamol 368,Pain Reliever,1,2023-11-29
+144,Prednisolone 287,Steroid,1,2024-02-14
+34,Prednisolone 72,Steroid,1,2023-06-04
+29,Ibuprofen 313,Pain Reliever,1,2024-01-23
+27,Gliclazide 102,Diabetes,2,2023-07-19
+124,Omeprazole 443,Acid Reflux,3,2023-09-11
+44,Amoxicillin 194,Antibiotic,3,2023-12-16
+192,Telmisartan 35,Blood Pressure,3,2023-03-28
+151,Ranitidine 153,Acid Reflux,3,2024-02-26
+146,Atorvastatin 161,Cholesterol,3,2023-06-10
+182,Levothyroxine 396,Thyroid,3,2023-08-04
+115,Paracetamol 448,Pain Reliever,3,2024-02-07
+161,Atorvastatin 137,Cholesterol,3,2023-03-27
+187,Ibuprofen 154,Pain Reliever,1,2023-06-06
+160,Losartan 122,Blood Pressure,2,2023-10-28
+105,Atorvastatin 262,Cholesterol,3,2023-09-27
+140,Ranitidine 117,Acid Reflux,2,2023-05-10
+73,Cetirizine 109,Antihistamine,2,2023-09-24
+129,Ibuprofen 327,Pain Reliever,3,2023-08-29
+82,Gliclazide 234,Diabetes,3,2024-01-17
+114,Ibuprofen 294,Pain Reliever,1,2023-09-03
+154,Atorvastatin 161,Cholesterol,2,2023-04-20
+127,Prednisolone 414,Steroid,2,2024-02-28
+127,Amlodipine 366,Blood Pressure,2,2023-06-24
+35,Paracetamol 41,Pain Reliever,3,2024-01-31
+196,Metformin 278,Diabetes,2,2023-08-18
+86,Levothyroxine 403,Thyroid,3,2023-10-19
+53,Levothyroxine 116,Thyroid,3,2023-05-10
+61,Amoxicillin 38,Antibiotic,1,2023-07-20
+25,Atorvastatin 232,Cholesterol,3,2023-07-21
+48,Ibuprofen 133,Pain Reliever,1,2023-07-24
+70,Metformin 405,Diabetes,1,2023-08-18
+8,Metformin 78,Diabetes,3,2023-06-24
+55,Levothyroxine 424,Thyroid,2,2024-02-26
+86,Paracetamol 64,Pain Reliever,1,2023-05-10
+38,Amoxicillin 268,Antibiotic,3,2023-04-15
+21,Ranitidine 165,Acid Reflux,3,2023-10-29
+72,Metformin 33,Diabetes,2,2023-06-23
+113,Amoxicillin 43,Antibiotic,2,2023-07-07
+47,Amlodipine 269,Blood Pressure,3,2023-08-03
+104,Ranitidine 325,Acid Reflux,3,2023-11-17
+159,Telmisartan 288,Blood Pressure,2,2023-04-24
+77,Gliclazide 102,Diabetes,2,2023-10-14
+68,Gliclazide 318,Diabetes,3,2023-03-15
+114,Ranitidine 385,Acid Reflux,3,2023-08-02
+118,Amoxicillin 128,Antibiotic,3,2023-05-23
+64,Telmisartan 53,Blood Pressure,2,2023-11-23
+122,Losartan 88,Blood Pressure,2,2024-02-21
+95,Amlodipine 355,Blood Pressure,2,2024-01-03
+43,Levothyroxine 60,Thyroid,1,2024-02-12
+106,Telmisartan 288,Blood Pressure,3,2023-03-03
+14,Omeprazole 14,Acid Reflux,3,2023-10-15
+73,Metformin 240,Diabetes,1,2023-03-24
+159,Cetirizine 147,Antihistamine,1,2023-10-30
+85,Levothyroxine 338,Thyroid,2,2023-05-29
+152,Aspirin 328,Pain Reliever,1,2023-11-14
+195,Prednisolone 433,Steroid,1,2023-07-31
+38,Amoxicillin 132,Antibiotic,1,2023-12-04
+88,Aspirin 379,Pain Reliever,1,2023-11-04
+171,Prednisolone 47,Steroid,1,2023-04-13
+26,Gliclazide 384,Diabetes,1,2024-02-02
+48,Ranitidine 216,Acid Reflux,1,2023-12-04
+150,Aspirin 172,Pain Reliever,1,2023-10-23
+130,Aspirin 140,Pain Reliever,2,2023-05-24
+123,Gliclazide 102,Diabetes,2,2023-06-15
+176,Metformin 9,Diabetes,1,2023-03-28
+7,Losartan 160,Blood Pressure,2,2023-10-04
+164,Losartan 409,Blood Pressure,2,2024-01-25
+39,Gliclazide 166,Diabetes,3,2024-02-06
+29,Amoxicillin 189,Antibiotic,3,2023-10-18
+91,Aspirin 61,Pain Reliever,2,2023-12-15
+55,Atorvastatin 449,Cholesterol,1,2023-11-12
+185,Aspirin 357,Pain Reliever,1,2023-06-18
+123,Omeprazole 358,Acid Reflux,2,2023-03-19
+163,Ibuprofen 65,Pain Reliever,1,2024-02-07
+99,Aspirin 172,Pain Reliever,3,2023-04-30
+68,Ranitidine 438,Acid Reflux,1,2023-09-24
+60,Gliclazide 399,Diabetes,1,2023-10-16
+64,Amoxicillin 87,Antibiotic,2,2023-08-19
+195,Amoxicillin 381,Antibiotic,1,2024-02-13
+37,Omeprazole 401,Acid Reflux,3,2023-08-13
+159,Atorvastatin 101,Cholesterol,1,2023-11-02
+14,Amoxicillin 412,Antibiotic,3,2024-02-12
+36,Ranitidine 153,Acid Reflux,2,2023-09-26
+24,Amoxicillin 254,Antibiotic,3,2023-04-24
+49,Ranitidine 309,Acid Reflux,1,2023-08-07
+157,Cetirizine 210,Antihistamine,3,2024-01-15
+197,Prednisolone 333,Steroid,2,2023-11-07
+51,Gliclazide 226,Diabetes,2,2023-04-04
+97,Amlodipine 80,Blood Pressure,1,2023-10-03
+132,Paracetamol 348,Pain Reliever,1,2023-09-11
+112,Telmisartan 267,Blood Pressure,1,2023-07-20
+118,Paracetamol 241,Pain Reliever,2,2024-01-08
+124,Cetirizine 145,Antihistamine,1,2023-11-06
+130,Amlodipine 364,Blood Pressure,2,2024-02-27
+76,Losartan 360,Blood Pressure,1,2024-01-24
+164,Ibuprofen 55,Pain Reliever,1,2023-10-28
+180,Amlodipine 490,Blood Pressure,3,2023-04-05
+139,Metformin 11,Diabetes,3,2023-03-29
+112,Paracetamol 467,Pain Reliever,2,2023-10-13
+109,Aspirin 22,Pain Reliever,3,2023-12-20
+48,Metformin 405,Diabetes,2,2023-06-15
+180,Amlodipine 50,Blood Pressure,2,2023-07-03
+64,Prednisolone 17,Steroid,3,2023-05-15
+28,Ranitidine 454,Acid Reflux,3,2023-11-12
+89,Metformin 255,Diabetes,2,2023-04-04
+192,Atorvastatin 429,Cholesterol,1,2023-11-17
+5,Ibuprofen 55,Pain Reliever,1,2023-07-28
+200,Paracetamol 398,Pain Reliever,1,2023-10-30
+198,Cetirizine 210,Antihistamine,2,2023-05-01
+150,Amoxicillin 83,Antibiotic,2,2023-04-27
+14,Amlodipine 115,Blood Pressure,2,2023-09-11
+177,Amoxicillin 373,Antibiotic,1,2023-08-25
+176,Amlodipine 281,Blood Pressure,3,2024-01-25
+135,Amoxicillin 178,Antibiotic,2,2023-10-06
+98,Metformin 382,Diabetes,2,2023-08-23
+198,Prednisolone 287,Steroid,3,2024-02-17
+45,Amoxicillin 254,Antibiotic,3,2023-06-25
+19,Gliclazide 16,Diabetes,1,2023-10-20
+73,Levothyroxine 321,Thyroid,1,2023-05-10
+69,Metformin 271,Diabetes,3,2023-07-06
+32,Ibuprofen 179,Pain Reliever,1,2023-08-24
+65,Prednisolone 27,Steroid,1,2024-01-05
+176,Aspirin 121,Pain Reliever,3,2023-05-22
+161,Aspirin 85,Pain Reliever,2,2023-11-17
+115,Aspirin 305,Pain Reliever,2,2024-01-30
+175,Atorvastatin 238,Cholesterol,3,2023-09-05
+47,Omeprazole 437,Acid Reflux,2,2023-03-23
+112,Atorvastatin 292,Cholesterol,2,2023-05-21
+23,Amlodipine 364,Blood Pressure,1,2023-11-23
+200,Amoxicillin 206,Antibiotic,1,2023-05-18
+174,Amlodipine 300,Blood Pressure,3,2024-02-16
+116,Ibuprofen 447,Pain Reliever,2,2023-03-12
+59,Omeprazole 342,Acid Reflux,3,2023-12-30
+16,Cetirizine 185,Antihistamine,1,2023-07-25
+58,Losartan 330,Blood Pressure,2,2023-03-05
+67,Cetirizine 210,Antihistamine,3,2023-07-01
+160,Amoxicillin 207,Antibiotic,3,2023-07-16
+44,Telmisartan 20,Blood Pressure,3,2023-03-10
+7,Gliclazide 102,Diabetes,3,2024-02-28
+188,Levothyroxine 416,Thyroid,1,2023-03-16
+31,Losartan 360,Blood Pressure,2,2023-09-22
+56,Omeprazole 420,Acid Reflux,2,2023-06-20
+35,Ranitidine 176,Acid Reflux,3,2023-04-22
+18,Aspirin 305,Pain Reliever,2,2023-12-18
+8,Prednisolone 27,Steroid,3,2023-09-06
+81,Atorvastatin 394,Cholesterol,2,2023-04-21
+195,Cetirizine 488,Antihistamine,2,2023-08-23
+149,Cetirizine 109,Antihistamine,2,2024-01-03
+144,Losartan 332,Blood Pressure,2,2023-08-20
+60,Aspirin 328,Pain Reliever,1,2023-12-14
+62,Cetirizine 280,Antihistamine,3,2023-04-23
+104,Atorvastatin 124,Cholesterol,3,2023-11-19
+42,Metformin 405,Diabetes,1,2024-01-31
+42,Aspirin 85,Pain Reliever,3,2023-07-14
+71,Aspirin 195,Pain Reliever,3,2023-08-15
+59,Metformin 322,Diabetes,1,2023-03-25
+172,Amlodipine 374,Blood Pressure,3,2024-02-03
+99,Levothyroxine 479,Thyroid,3,2023-06-07
+130,Prednisolone 168,Steroid,1,2023-12-12
+119,Aspirin 343,Pain Reliever,1,2023-12-24
+22,Levothyroxine 487,Thyroid,2,2023-11-01
+134,Losartan 277,Blood Pressure,3,2023-08-16
+76,Aspirin 498,Pain Reliever,3,2023-03-18
+136,Aspirin 104,Pain Reliever,1,2023-04-09
+44,Gliclazide 28,Diabetes,1,2024-03-01
+114,Metformin 400,Diabetes,1,2023-03-30
+199,Ibuprofen 294,Pain Reliever,3,2023-03-08
+136,Losartan 237,Blood Pressure,1,2023-09-14
+163,Paracetamol 466,Pain Reliever,1,2023-04-23
+174,Amlodipine 306,Blood Pressure,2,2023-08-16
+144,Losartan 74,Blood Pressure,1,2023-06-26
+43,Gliclazide 58,Diabetes,2,2023-06-24
+63,Prednisolone 168,Steroid,1,2023-08-20
+190,Paracetamol 187,Pain Reliever,1,2023-03-29
+65,Omeprazole 14,Acid Reflux,3,2024-02-05
+56,Ibuprofen 386,Pain Reliever,1,2023-11-15
+80,Gliclazide 383,Diabetes,2,2023-05-31
+173,Metformin 276,Diabetes,1,2024-01-11
+159,Aspirin 39,Pain Reliever,3,2023-08-30
+1,Losartan 293,Blood Pressure,3,2023-08-21
+69,Gliclazide 211,Diabetes,3,2023-04-02
+181,Atorvastatin 394,Cholesterol,2,2023-10-17
+16,Prednisolone 491,Steroid,2,2023-06-18
+91,Metformin 290,Diabetes,2,2023-05-25
+12,Ranitidine 165,Acid Reflux,2,2023-06-07
+76,Amlodipine 375,Blood Pressure,3,2023-04-08
+198,Ranitidine 439,Acid Reflux,2,2023-10-31
+17,Cetirizine 204,Antihistamine,2,2023-03-09
+97,Aspirin 85,Pain Reliever,3,2023-11-25
+161,Losartan 274,Blood Pressure,3,2024-02-17
+156,Telmisartan 53,Blood Pressure,2,2023-04-23
+126,Ibuprofen 100,Pain Reliever,1,2023-12-03
+192,Amoxicillin 361,Antibiotic,1,2023-11-24
+164,Paracetamol 393,Pain Reliever,3,2023-09-29
+86,Metformin 81,Diabetes,2,2023-05-21
+180,Telmisartan 267,Blood Pressure,1,2024-01-07
+94,Telmisartan 35,Blood Pressure,1,2023-04-05
+186,Levothyroxine 209,Thyroid,2,2023-06-23
+96,Prednisolone 213,Steroid,2,2023-04-12
+199,Telmisartan 20,Blood Pressure,1,2023-07-14
+136,Aspirin 86,Pain Reliever,1,2024-02-09
+16,Amoxicillin 87,Antibiotic,3,2023-09-30
+175,Paracetamol 270,Pain Reliever,1,2024-02-19
+97,Aspirin 305,Pain Reliever,3,2024-01-02
+92,Cetirizine 127,Antihistamine,1,2023-09-25
+36,Levothyroxine 218,Thyroid,1,2023-11-16
+156,Ibuprofen 177,Pain Reliever,3,2023-09-19
+100,Levothyroxine 29,Thyroid,3,2024-03-01
+163,Amoxicillin 311,Antibiotic,3,2023-05-18
+142,Atorvastatin 161,Cholesterol,1,2023-06-22
+104,Losartan 249,Blood Pressure,1,2024-01-12
+89,Metformin 271,Diabetes,3,2023-03-15
+172,Amlodipine 374,Blood Pressure,3,2023-03-14
+22,Prednisolone 395,Steroid,2,2024-02-11
+80,Gliclazide 248,Diabetes,1,2023-11-17
+173,Aspirin 284,Pain Reliever,2,2023-06-17
+195,Prednisolone 57,Steroid,1,2023-05-18
+127,Cetirizine 388,Antihistamine,1,2024-01-01
+154,Omeprazole 297,Acid Reflux,3,2023-12-05
+94,Amoxicillin 131,Antibiotic,3,2023-06-18
+41,Amlodipine 139,Blood Pressure,1,2023-10-09
+10,Prednisolone 152,Steroid,3,2023-10-15
+54,Prednisolone 40,Steroid,1,2024-01-02
+3,Atorvastatin 156,Cholesterol,2,2023-09-27
+15,Amoxicillin 194,Antibiotic,1,2023-08-11
+63,Metformin 9,Diabetes,1,2024-02-04
+167,Metformin 400,Diabetes,2,2023-08-18
+66,Amoxicillin 38,Antibiotic,1,2023-11-24
+181,Aspirin 305,Pain Reliever,2,2023-12-29
+90,Aspirin 90,Pain Reliever,1,2023-08-18
+15,Atorvastatin 489,Cholesterol,3,2023-04-29
+56,Metformin 9,Diabetes,2,2023-03-25
+79,Amoxicillin 427,Antibiotic,1,2023-12-19
+188,Gliclazide 166,Diabetes,1,2023-05-25
+138,Telmisartan 68,Blood Pressure,1,2023-07-29
+110,Ranitidine 454,Acid Reflux,3,2023-05-23
+133,Prednisolone 223,Steroid,1,2023-08-26
+187,Metformin 175,Diabetes,1,2023-12-20
+147,Paracetamol 144,Pain Reliever,1,2024-02-15
+67,Aspirin 499,Pain Reliever,2,2023-03-16
+93,Ranitidine 341,Acid Reflux,1,2023-06-26
+54,Ranitidine 423,Acid Reflux,1,2023-10-11
+114,Gliclazide 324,Diabetes,1,2023-07-17
+172,Levothyroxine 60,Thyroid,2,2023-10-12
+50,Amoxicillin 268,Antibiotic,2,2023-10-17
+19,Atorvastatin 238,Cholesterol,1,2023-11-27
+100,Levothyroxine 403,Thyroid,3,2024-01-10
+22,Ibuprofen 327,Pain Reliever,3,2024-01-28
+31,Cetirizine 127,Antihistamine,2,2023-10-17
+66,Aspirin 343,Pain Reliever,1,2023-12-13
+84,Ranitidine 439,Acid Reflux,3,2023-10-21
+104,Aspirin 195,Pain Reliever,3,2023-10-02
+35,Losartan 74,Blood Pressure,3,2023-12-23
+106,Ibuprofen 32,Pain Reliever,1,2023-11-03
+102,Metformin 197,Diabetes,3,2023-05-08
+128,Ibuprofen 353,Pain Reliever,2,2023-08-31
+42,Metformin 78,Diabetes,3,2023-09-08
+101,Paracetamol 466,Pain Reliever,1,2024-01-21
+121,Paracetamol 94,Pain Reliever,1,2024-02-12
+7,Metformin 322,Diabetes,3,2023-11-22
+13,Amoxicillin 412,Antibiotic,1,2024-02-06
+38,Ranitidine 176,Acid Reflux,1,2023-09-07
+191,Metformin 9,Diabetes,1,2023-06-08
+172,Atorvastatin 46,Cholesterol,2,2023-06-21
+171,Amlodipine 221,Blood Pressure,3,2023-03-04
+62,Amlodipine 186,Blood Pressure,3,2023-03-09
+26,Prednisolone 57,Steroid,3,2023-09-21
+27,Levothyroxine 29,Thyroid,3,2023-03-07
+147,Amlodipine 97,Blood Pressure,1,2023-04-29
+171,Atorvastatin 137,Cholesterol,2,2023-03-29
+9,Amoxicillin 142,Antibiotic,2,2023-05-06
+142,Ranitidine 453,Acid Reflux,1,2023-03-27
+157,Ibuprofen 133,Pain Reliever,1,2024-01-31
+8,Cetirizine 109,Antihistamine,3,2024-03-01
+80,Metformin 219,Diabetes,2,2023-11-19
+29,Aspirin 379,Pain Reliever,1,2023-07-30
+160,Cetirizine 388,Antihistamine,2,2023-09-30
+27,Paracetamol 466,Pain Reliever,2,2024-02-04
+89,Aspirin 1,Pain Reliever,3,2023-03-31
+76,Omeprazole 443,Acid Reflux,2,2023-03-19
+15,Levothyroxine 365,Thyroid,3,2023-05-22
+128,Amlodipine 471,Blood Pressure,1,2024-02-14
+89,Metformin 69,Diabetes,1,2023-10-20
+57,Paracetamol 198,Pain Reliever,3,2023-09-05
+175,Metformin 175,Diabetes,1,2024-02-14
+169,Omeprazole 190,Acid Reflux,1,2023-03-26
+73,Losartan 122,Blood Pressure,3,2023-06-26
+70,Prednisolone 247,Steroid,1,2023-07-08
+4,Levothyroxine 335,Thyroid,3,2023-03-05
+34,Prednisolone 17,Steroid,1,2024-02-24
+3,Prednisolone 435,Steroid,2,2023-04-09
+155,Telmisartan 259,Blood Pressure,1,2023-04-06
+123,Cetirizine 388,Antihistamine,2,2023-11-14
+52,Aspirin 499,Pain Reliever,3,2023-10-25
+163,Amoxicillin 462,Antibiotic,3,2023-04-28
+124,Levothyroxine 310,Thyroid,1,2023-10-03
+72,Aspirin 135,Pain Reliever,2,2024-01-16
+88,Ibuprofen 313,Pain Reliever,2,2023-09-06
+195,Omeprazole 113,Acid Reflux,1,2023-10-01
+38,Levothyroxine 316,Thyroid,3,2023-10-01
+108,Levothyroxine 334,Thyroid,1,2023-07-24
+197,Aspirin 499,Pain Reliever,1,2023-05-05
+35,Atorvastatin 137,Cholesterol,2,2023-08-11
+123,Levothyroxine 29,Thyroid,3,2023-07-30
+144,Paracetamol 393,Pain Reliever,3,2024-01-27
+73,Losartan 285,Blood Pressure,1,2024-01-04
+61,Omeprazole 358,Acid Reflux,2,2023-10-30
+188,Ibuprofen 377,Pain Reliever,1,2023-10-11
+97,Atorvastatin 394,Cholesterol,3,2023-11-06
+41,Gliclazide 261,Diabetes,2,2023-12-15
+7,Prednisolone 333,Steroid,1,2023-09-27
+8,Prednisolone 419,Steroid,2,2023-12-06
+47,Amoxicillin 427,Antibiotic,2,2023-05-16
+196,Metformin 197,Diabetes,3,2023-05-02
+78,Levothyroxine 402,Thyroid,1,2023-12-02
+186,Omeprazole 329,Acid Reflux,3,2023-10-28
+49,Telmisartan 2,Blood Pressure,1,2023-11-22
+190,Paracetamol 25,Pain Reliever,1,2023-10-07
+155,Atorvastatin 275,Cholesterol,3,2023-04-08
+60,Amlodipine 490,Blood Pressure,3,2023-06-03
+195,Telmisartan 68,Blood Pressure,1,2023-09-29
+30,Aspirin 135,Pain Reliever,3,2023-08-07
+65,Prednisolone 442,Steroid,1,2024-02-08
+127,Ranitidine 171,Acid Reflux,2,2023-03-04
+90,Atorvastatin 394,Cholesterol,1,2023-11-23
+63,Telmisartan 118,Blood Pressure,1,2023-11-13
+6,Gliclazide 234,Diabetes,3,2024-01-22
+65,Levothyroxine 148,Thyroid,1,2023-09-22
+134,Amoxicillin 43,Antibiotic,3,2023-06-04
+96,Omeprazole 456,Acid Reflux,3,2023-12-22
+120,Amoxicillin 123,Antibiotic,1,2023-05-09
+121,Paracetamol 270,Pain Reliever,1,2023-06-28
+173,Levothyroxine 283,Thyroid,1,2023-11-12
+130,Omeprazole 164,Acid Reflux,3,2023-11-17
+94,Cetirizine 370,Antihistamine,3,2024-02-28
+88,Amoxicillin 469,Antibiotic,3,2024-02-09
+109,Ranitidine 153,Acid Reflux,3,2023-06-13
+1,Atorvastatin 169,Cholesterol,3,2023-05-08
+158,Paracetamol 448,Pain Reliever,1,2023-10-10
+126,Telmisartan 201,Blood Pressure,1,2023-08-31
+91,Levothyroxine 209,Thyroid,2,2023-04-27
+102,Paracetamol 208,Pain Reliever,2,2024-02-09
+185,Amoxicillin 254,Antibiotic,3,2023-04-21
+3,Paracetamol 347,Pain Reliever,3,2024-02-18
+137,Levothyroxine 283,Thyroid,3,2023-08-13
+8,Ranitidine 341,Acid Reflux,3,2023-10-31
+99,Cetirizine 210,Antihistamine,1,2023-09-12
+144,Levothyroxine 365,Thyroid,2,2024-01-23
+175,Aspirin 460,Pain Reliever,2,2023-06-02
+72,Atorvastatin 46,Cholesterol,3,2023-10-23
+151,Gliclazide 212,Diabetes,1,2023-03-09
+36,Losartan 110,Blood Pressure,2,2023-03-10
+86,Aspirin 22,Pain Reliever,1,2023-12-16
+35,Aspirin 61,Pain Reliever,1,2023-05-02
+35,Prednisolone 395,Steroid,3,2023-08-26
+51,Atorvastatin 137,Cholesterol,1,2023-08-18
+23,Metformin 225,Diabetes,1,2023-03-31
+41,Amlodipine 245,Blood Pressure,3,2023-06-20
+62,Losartan 246,Blood Pressure,1,2023-07-12
+68,Aspirin 410,Pain Reliever,2,2023-09-06
+190,Levothyroxine 482,Thyroid,3,2023-06-01
+45,Amoxicillin 194,Antibiotic,1,2023-09-16
+68,Gliclazide 248,Diabetes,1,2023-06-11
+25,Levothyroxine 416,Thyroid,2,2023-11-24
+127,Omeprazole 155,Acid Reflux,3,2023-11-28
+164,Aspirin 61,Pain Reliever,3,2024-01-21
+126,Amoxicillin 24,Antibiotic,3,2023-12-30
+58,Gliclazide 298,Diabetes,3,2023-04-10
+7,Paracetamol 253,Pain Reliever,2,2023-11-27
+110,Cetirizine 210,Antihistamine,1,2023-04-23
+60,Amlodipine 260,Blood Pressure,3,2023-06-03
+10,Levothyroxine 334,Thyroid,2,2024-02-02
+10,Gliclazide 261,Diabetes,1,2023-07-09
+132,Prednisolone 287,Steroid,2,2023-05-03
+139,Gliclazide 298,Diabetes,1,2023-04-23
+29,Gliclazide 234,Diabetes,1,2024-02-04
+79,Aspirin 39,Pain Reliever,1,2023-07-13
+66,Amlodipine 364,Blood Pressure,3,2024-01-03
+129,Amoxicillin 194,Antibiotic,2,2023-08-10
+99,Amoxicillin 311,Antibiotic,2,2023-03-19
+159,Omeprazole 190,Acid Reflux,3,2023-04-18
+31,Ibuprofen 49,Pain Reliever,1,2023-03-21
+3,Amoxicillin 381,Antibiotic,2,2023-05-18
+66,Omeprazole 76,Acid Reflux,2,2023-07-30
+56,Aspirin 379,Pain Reliever,2,2023-12-13
+21,Levothyroxine 220,Thyroid,2,2023-12-19
+91,Atorvastatin 137,Cholesterol,3,2023-05-27
+24,Amlodipine 471,Blood Pressure,2,2023-03-22
+70,Paracetamol 398,Pain Reliever,2,2023-06-26
+75,Cetirizine 185,Antihistamine,2,2023-05-19
+88,Ibuprofen 313,Pain Reliever,3,2023-09-28
+115,Telmisartan 288,Blood Pressure,2,2023-07-23
+131,Ibuprofen 326,Pain Reliever,2,2023-11-20
+92,Ibuprofen 82,Pain Reliever,3,2023-05-26
+54,Losartan 88,Blood Pressure,1,2023-10-08
+41,Cetirizine 8,Antihistamine,2,2023-05-16
+169,Amlodipine 366,Blood Pressure,2,2023-09-29
+132,Prednisolone 152,Steroid,1,2023-03-12
+56,Ibuprofen 179,Pain Reliever,3,2023-08-24
+142,Cetirizine 8,Antihistamine,3,2023-11-24
+97,Prednisolone 395,Steroid,1,2023-03-10
+166,Prednisolone 421,Steroid,3,2023-06-06
+11,Prednisolone 183,Steroid,3,2023-12-11
+125,Losartan 122,Blood Pressure,1,2023-05-18
+97,Amlodipine 269,Blood Pressure,3,2024-02-28
+92,Amlodipine 422,Blood Pressure,3,2024-02-01
+168,Metformin 197,Diabetes,2,2023-08-13
+4,Amlodipine 300,Blood Pressure,1,2023-07-30
+72,Metformin 445,Diabetes,1,2023-08-16
+149,Telmisartan 436,Blood Pressure,3,2023-09-20
+32,Paracetamol 417,Pain Reliever,1,2023-11-14
+157,Metformin 264,Diabetes,3,2023-09-02
+107,Ranitidine 153,Acid Reflux,2,2023-04-23
+18,Prednisolone 205,Steroid,2,2023-07-19
+21,Metformin 69,Diabetes,3,2023-06-30
+109,Levothyroxine 338,Thyroid,2,2023-11-29
+97,Gliclazide 184,Diabetes,1,2023-12-16
+184,Prednisolone 149,Steroid,3,2023-05-04
+18,Aspirin 86,Pain Reliever,1,2023-08-30
+159,Levothyroxine 170,Thyroid,3,2023-03-08
+68,Paracetamol 303,Pain Reliever,2,2023-05-17
+18,Losartan 390,Blood Pressure,1,2023-12-07
+85,Omeprazole 190,Acid Reflux,2,2024-02-18
+138,Metformin 4,Diabetes,1,2023-06-26
+169,Gliclazide 136,Diabetes,3,2023-06-20
+120,Cetirizine 354,Antihistamine,2,2023-07-21
+103,Amlodipine 45,Blood Pressure,3,2023-10-01
+98,Losartan 112,Blood Pressure,3,2023-08-09
+74,Metformin 473,Diabetes,3,2023-10-13
+150,Ranitidine 117,Acid Reflux,2,2023-03-04
+88,Metformin 69,Diabetes,3,2023-11-06
+174,Ranitidine 250,Acid Reflux,1,2023-09-25
+125,Levothyroxine 70,Thyroid,3,2023-12-17
+60,Losartan 110,Blood Pressure,1,2024-01-28
+38,Omeprazole 272,Acid Reflux,3,2023-08-15
+57,Amoxicillin 142,Antibiotic,2,2023-05-05
+61,Atorvastatin 161,Cholesterol,2,2024-01-29
+116,Cetirizine 354,Antihistamine,2,2023-06-06
+163,Metformin 81,Diabetes,1,2023-07-22
+76,Amlodipine 490,Blood Pressure,3,2023-06-09
+39,Aspirin 135,Pain Reliever,3,2024-01-05
+193,Omeprazole 143,Acid Reflux,3,2023-08-24
+2,Metformin 175,Diabetes,2,2023-08-07
+96,Metformin 219,Diabetes,3,2023-08-17
+19,Losartan 231,Blood Pressure,3,2023-08-27
+46,Ibuprofen 32,Pain Reliever,3,2023-08-14
+111,Atorvastatin 475,Cholesterol,2,2024-01-04
+144,Prednisolone 57,Steroid,3,2023-08-09
+159,Omeprazole 113,Acid Reflux,1,2023-03-29
+191,Amlodipine 300,Blood Pressure,2,2023-06-29
+144,Losartan 360,Blood Pressure,2,2023-11-18
+181,Levothyroxine 367,Thyroid,3,2023-05-08
+122,Aspirin 95,Pain Reliever,1,2023-09-25
+183,Levothyroxine 316,Thyroid,3,2023-05-09
+26,Levothyroxine 482,Thyroid,3,2023-05-07
+49,Ibuprofen 49,Pain Reliever,3,2023-12-17
+84,Levothyroxine 310,Thyroid,2,2023-07-18
+76,Metformin 5,Diabetes,1,2023-10-06
+150,Amlodipine 404,Blood Pressure,1,2023-05-15
+23,Atorvastatin 238,Cholesterol,3,2024-01-18
+135,Amoxicillin 462,Antibiotic,2,2023-03-12
+177,Aspirin 86,Pain Reliever,1,2023-04-13
+126,Amoxicillin 62,Antibiotic,3,2023-05-26
+86,Atorvastatin 394,Cholesterol,2,2023-04-08
+92,Metformin 382,Diabetes,2,2023-12-14
+159,Losartan 106,Blood Pressure,1,2023-06-27
