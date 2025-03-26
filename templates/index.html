@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>RxPredict - Medicine Recommendation</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+</head>
+<body>
+    <div class="container">
+        <h1>RxPredict: Medicine Recommendation System</h1>
+        <p>Enter symptoms to get medicine recommendations.</p>
+        
+        <form method="POST">
+            <label for="symptoms">Enter Symptoms (comma separated):</label>
+            <input type="text" id="symptoms" name="symptoms" placeholder="e.g., headache, fever" required>
+            <button type="submit">Get Recommendations</button>
+        </form>
+
+        {% if recommendations %}
+            <h2>Recommended Medicines:</h2>
+            <ul>
+                {% for medicine in recommendations %}
+                    <li>{{ medicine }}</li>
+                {% endfor %}
+            </ul>
+        {% endif %}
+    </div>
+</body>
+</html>
